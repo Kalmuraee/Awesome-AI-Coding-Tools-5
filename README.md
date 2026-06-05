@@ -182,6 +182,7 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) [![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)](https://github.com/splx-ai/agentic-radar)
 - [MCP Scan](https://github.com/splx-ai/agentic-radar) [![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)](https://github.com/splx-ai/agentic-radar)
+- [Tuning Engines CLI](https://github.com/cerebrixos-org/tuning-engines-cli) [![GitHub Repo stars](https://img.shields.io/github/stars/cerebrixos-org/tuning-engines-cli?style=social)](https://github.com/cerebrixos-org/tuning-engines-cli)
 
 ## Niche
 
