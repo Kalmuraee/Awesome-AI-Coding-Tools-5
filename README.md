@@ -125,6 +125,7 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 
 ## Editing
 
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) [![GitHub Repo stars](https://img.shields.io/github/stars/Kalmuraee/OpenMagic?style=social)](https://github.com/Kalmuraee/OpenMagic)
 - [Stagewise](https://github.com/stagewise-io/stagewise) [![GitHub Repo stars](https://img.shields.io/github/stars/stagewise-io/stagewise?style=social)](https://github.com/stagewise-io/stagewise)
 
 ## Education Resources
